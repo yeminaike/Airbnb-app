@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Airbnb-app/static/css/main.e09794a8.css",
+    "main.js": "/Airbnb-app/static/js/main.1bfd18e7.js",
+    "static/js/787.4331a31e.chunk.js": "/Airbnb-app/static/js/787.4331a31e.chunk.js",
+    "static/media/photogrid.png": "/Airbnb-app/static/media/photogrid.072626b8e8ff69932f03.png",
+    "static/media/Dominic-Thiem.png": "/Airbnb-app/static/media/Dominic-Thiem.9f12546669edeb771c27.png",
+    "static/media/Wawrinka.png": "/Airbnb-app/static/media/Wawrinka.8d2b7553a329e9bf7084.png",
+    "static/media/Swimming-athlete.png": "/Airbnb-app/static/media/Swimming-athlete.5d736ac3dc01f817ff4d.png",
+    "static/media/wedding-woman.png": "/Airbnb-app/static/media/wedding-woman.a9bdd03c0d26552c55a7.png",
+    "static/media/mountain-bike1.png": "/Airbnb-app/static/media/mountain-bike1.d300681b8a0b905fc710.png",
+    "static/media/djokovic.png": "/Airbnb-app/static/media/djokovic.14192444c5ab7dc8754b.png",
+    "index.html": "/Airbnb-app/index.html",
+    "main.e09794a8.css.map": "/Airbnb-app/static/css/main.e09794a8.css.map",
+    "main.1bfd18e7.js.map": "/Airbnb-app/static/js/main.1bfd18e7.js.map",
+    "787.4331a31e.chunk.js.map": "/Airbnb-app/static/js/787.4331a31e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e09794a8.css",
+    "static/js/main.1bfd18e7.js"
+  ]
+}
