@@ -1,0 +1,170 @@
+
+body{
+  font-family: "poppins", sans-serif;
+}
+
+.airbnb-logo{
+  max-width: 100px;
+  height:5vh;
+
+}
+
+nav{
+  
+  
+  display: flex;
+  padding: 20px;
+  width: 150rem;
+  height: 40px;
+  flex-shrink: 0;
+  box-shadow: 0px 3px 7px rgba(0,0,0,0.1);
+}
+
+section{
+  padding: 20px;
+}
+
+.photo-grid{
+  /* margin-left: 5rem;
+  margin-top: 30px; */
+  max-width: 100rem;
+  align-self: center;
+}
+
+.air-title{
+  font-size: 50px;
+  margin-bottom: 16px;
+}
+
+.paragraph-text{
+   display: flex;
+width: 290px;
+height: 56px;
+/* flex-direction: column;
+flex-shrink: 0;  */
+margin-top: 0;
+line-height: 110%;
+color: #222;
+font-size: 16px;
+font-weight: 300;
+font-family: Poppins;
+}
+
+.Hero{
+  display: flex;
+  flex-direction: column;
+}
+
+.card{
+   width: 175px;
+   font-size: 12px;
+   flex: 0 0 auto;         
+   display: flex;          
+   flex-direction: column; 
+   position: relative;
+
+
+}
+.cards-list {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 20px;
+  overflow-x: auto;
+}
+
+.card-stats{
+  display: flex;
+  align-items: center;
+}
+.gray{
+  color: #918E9B;
+}
+.bold{
+  font-weight: bold;
+}
+
+.contacts {
+  display: flex;
+  justify-content: center;
+   flex-wrap: wrap; 
+  gap: 40px;
+}
+
+.contact-card {
+  flex-basis: 225px;
+  box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  padding: 13px;
+  padding-bottom: 5px;
+  background-color: white;
+}
+
+.contact-card > img {
+  width: 100%;
+  height: auto;
+  align-self: center;
+  border-radius: 5px;
+  object-fit: cover;
+}
+
+.contact-card > h3 {
+  font-weight: 700;
+  font-size: 30px;
+}
+
+.info-group {
+  display: flex;
+  align-items: center;
+}
+
+.info-group > img {
+  height: 11px;
+  margin-right: 8px;
+}
+
+.info-group > p {
+  margin-block: 3px;
+  font-size: 12px;
+  color: #2B283A;
+}
+
+.card--title {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.card--image {
+  width: 100%;
+  height: 30vh;
+  border-radius: 9px;
+  margin-bottom: 9px;
+  flex-direction: column;
+}
+
+
+.card--star {
+  height: 14px;
+}
+
+.card--price {
+  margin-top: auto;
+}
+
+.card--badge{
+  position: absolute;
+  top: 6px;
+  left:6px;
+  background-color: #fff;
+  padding: 5px 7px;
+  border-radius: 2px;
+  font-weight: bold;
+}
+
+
+
+
+
+
+
